@@ -1,63 +1,66 @@
 # Kenshi Yonezu – KICK BACK
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-
-Randorii kyou wa garaaki de rakkii dei
-Katarii abura yogore mo kore de bye bye
-
-Dare da dare da atama no naka yobikakeru koe wa
-Are ga hoshii kore ga hoshii to utatteiru
-
-Shiawase ni naritai rakushite ikiteitai
-Kono te ni tsukamitai anata no sono mune no naka
-
-Happy de umetsukushite rest in peace made ikou ze
-Itsuka mita jigoku mo ii tokoro ai wo baramaite
-I love you kenashite kure zenbu ubatte waratte kure my honey
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Nanka wasurechatten da
-
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-
-Yon yon yon san de hazureru tansansui
-Hangurii kojirasete hakisou na jinsei
-
-"Yamanai ame wa nai" yori saki ni sono kasa wo kure yo
-Are ga hoshii kore ga hoshii subete hoshii tada munashii
-
-Shiawase ni naritai rakushite ikiteitai
-Zenbu mechakucha ni shitai nanimokamo keshisaritai
-Anata no sono mune no naka
-
-Lucky de umetsukushite rest in peace made ikou ze
-Yoi ko dake mukaeru tengoku ja doumo ikirannai
-I love you kenashite ubatte waratte kure my honey
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Nanka wasurechatten da
-
-Happy lucky konnichiwa baby
-Yoi ko de itai sorya tsumaranai
-Happy lucky konnichiwa baby soo suiito
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Nanka sugoi ii kanji
-
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
-Doryoku mirai A BEAUTIFUL STAR
+```lrc
+[00:09.16] (努力　未来　A BEAUTIFUL STAR)
+[00:11.53] (努力　未来　A BEAUTIFUL STAR)
+[00:13.88] (努力　未来　A BEAUTIFUL STAR)
+[00:16.25] (努力　未来　A BEAUTIFUL STAR)
+[00:19.25] ランドリー今日はガラ空きで
+[00:21.07] ラッキーデイ
+[00:23.95] かったりい油汚れもこれでバイバイ
+[00:28.17] 誰だ誰だ頭の中　呼びかける声は
+[00:32.42] あれが欲しい
+[00:33.56] これが欲しいと歌っている
+[00:37.47] 幸せになりたい　楽して生きていたい
+[00:41.92] この手に掴みたい
+[00:44.54] あなたのその胸の中
+[00:51.53] ハッピーで埋め尽くして
+[00:53.67] レストインピースまで行こうぜ
+[00:56.31] いつかみた地獄もいいところ
+[00:58.68] 愛をばら撒いて
+[01:00.95] アイラブユー貶してくれ
+[01:03.10] 全部奪って笑ってくれマイハニー
+[01:06.24] 努力　未来　A BEAUTIFUL STAR
+[01:08.59] 努力　未来　A BEAUTIFUL STAR
+[01:10.96] 努力　未来　A BEAUTIFUL STAR
+[01:13.38] なんか忘れちゃってんだ
+[01:15.06] (努力　未来　A BEAUTIFUL STAR)
+[01:17.40] (努力　未来　A BEAUTIFUL STAR)
+[01:19.79] (努力　未来　A BEAUTIFUL STAR)
+[01:22.13] (努力　未来　A BEAUTIFUL STAR)
+[01:25.06] ４４４３で外れる炭酸水
+[01:29.85] ハングリー拗らせて吐きそうな人生
+[01:33.94] 「止まない雨はない」より先に
+[01:36.43] その傘をくれよ
+[01:38.36] あれが欲しい　これが欲しい
+[01:40.11] 全て欲しい　ただ虚しい
+[01:44.21] 幸せになりたい　楽して生きていたい
+[01:53.65] 全部滅茶苦茶にしたい
+[01:58.08] 何もかも消し去りたい
+[02:02.21] あなたのその胸の中
+[02:13.91] ラッキーで埋め尽くして
+[02:16.00] レストインピースまで行こうぜ
+[02:18.66] 良い子だけ迎える天国じゃ
+[02:21.02] どうも生きらんない
+[02:23.36] アイラブユー貶して奪って
+[02:26.58] 笑ってくれマイハニー
+[02:28.56] 努力　未来　A BEAUTIFUL STAR
+[02:30.92] 努力　未来　A BEAUTIFUL STAR
+[02:33.31] 努力　未来　A BEAUTIFUL STAR
+[02:35.65] なんか忘れちゃってんだ
+[02:37.42] ハッピー　ラッキー (ハッピー　ラッキー)
+[02:39.77] こんにちはベイビー (こんにちはベイビー)
+[02:42.15] 良い子でいたい　そりゃつまらない (あなたの未来　そりゃつまらない)
+[02:46.82] ハッピー　ラッキー (ハッピー　ラッキー)
+[02:49.19] こんにちはベイビーソースイート (こんにちはベイビーソースイート)
+[02:52.12] 努力　未来　A BEAUTIFUL STAR
+[02:54.44] 努力　未来　A BEAUTIFUL STAR
+[02:56.83] 努力　未来　A BEAUTIFUL STAR
+[02:59.16] なんかすごい良い感じ
+[03:00.95] (努力　未来　A BEAUTIFUL STAR)
+[03:03.30] (努力　未来　A BEAUTIFUL STAR)
+[03:05.64] (努力　未来　A BEAUTIFUL STAR)
+[03:08.01] (努力　未来　A BEAUTIFUL STAR)
 ```
